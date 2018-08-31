@@ -1,3 +1,7 @@
-*.csv
+events.csv
+data/cities_w_coords_*
 venv/
 .ipynb_checkpoints/
+*.swp
+*.log
+metastore_db/
