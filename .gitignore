@@ -5,3 +5,4 @@ venv/
 *.swp
 *.log
 metastore_db/
+!cities_w_coords_with_completed_nans.csv
