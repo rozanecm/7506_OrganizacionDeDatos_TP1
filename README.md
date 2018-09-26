@@ -1,7 +1,7 @@
 # Instructions
 In the `data` dir, there is a compressed file containing the given dataset. Uncompress that file in the data dir, and move the files in the subfolder to `/data`.  
-## Note
-As all notebooks have been moved to dir `notebooks`, all `read_csv` commands should change the path accordingly, adding `../`.
+## Nota
+Como todos los notebooks se movieron al dir `notebooks`, todos los comandos `read_csv` deben cambiar el path que reciben anteponiendo `../`.
 
 # Informe
 El informe se encuentra en root bajo el nombre `informe.pdf`. Se puede acceder también desde [aquí](informe.pdf).
